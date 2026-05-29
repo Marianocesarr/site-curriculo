@@ -235,7 +235,7 @@ body {
 }
 
 .hero__name {
-  font-size: clamp(2rem, 4vw, 2.75rem);
+  font-size: clamp(1.5rem, 3.2vw, 2.35rem);
   font-weight: 800;
   letter-spacing: 0.04em;
   line-height: 1.1;

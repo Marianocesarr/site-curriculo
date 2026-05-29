@@ -31,7 +31,7 @@ function initCharts() {
       datasets: [
         {
           label: "Nível (%)",
-          data: [92, 88, 90, 82, 85, 87],
+          data: [94, 95, 88, 85, 93, 90],
           backgroundColor: CHART_COLORS.yellowAlpha,
           borderColor: CHART_COLORS.yellow,
           borderWidth: 2,
@@ -66,7 +66,7 @@ function initCharts() {
       labels: ["Vendas", "Gestão", "Análise", "Relacionamento"],
       datasets: [
         {
-          data: [35, 25, 22, 18],
+          data: [32, 28, 22, 18],
           backgroundColor: [
             CHART_COLORS.yellow,
             CHART_COLORS.charcoal,
@@ -97,13 +97,13 @@ function initCharts() {
       datasets: [
         {
           label: "Meta (R$ mil)",
-          data: [420, 450, 480, 510],
+          data: [280, 310, 340, 365],
           backgroundColor: CHART_COLORS.gray,
           borderRadius: 4,
         },
         {
           label: "Realizado (R$ mil)",
-          data: [398, 467, 512, 534],
+          data: [295, 325, 358, 378],
           backgroundColor: CHART_COLORS.yellow,
           borderRadius: 4,
         },
